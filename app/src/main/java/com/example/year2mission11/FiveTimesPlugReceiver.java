@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 
 public class FiveTimesPlugReceiver extends BroadcastReceiver {
+    // trying to fix a commit issue
     public static final String LOC = "com.example.year2mission11.receivers.FiveTimesPlugReceiver";
 
     /**

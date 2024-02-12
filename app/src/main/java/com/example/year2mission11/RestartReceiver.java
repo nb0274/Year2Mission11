@@ -8,6 +8,7 @@ import android.content.BroadcastReceiver;
 import android.content.Intent;
 
 public class RestartReceiver extends BroadcastReceiver {
+    // trying to fix a commit issue
     int count = 0;
     SharedPreferences restartSharedPref;
     SharedPreferences.Editor prefEditor;

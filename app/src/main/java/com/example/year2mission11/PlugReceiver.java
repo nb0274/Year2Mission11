@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 
 public class PlugReceiver extends BroadcastReceiver {
+    // trying to fix a commit issue
     int count = 0;
 
     /**
